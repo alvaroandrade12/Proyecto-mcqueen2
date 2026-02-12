@@ -7,8 +7,8 @@ Este repositorio contiene los proyectos, prácticas y desarrollos realizados en 
 El objetivo es aplicar conceptos avanzados de programación, estructuras de datos, algoritmos y buenas prácticas de desarrollo de software.
 
 ## 👥 Integrantes
-- **Julian Quimbayo**  
-- **Carlos Torres**
+- **Álvaro Augusto Andrade Quesada**  
+- **José Julián Briñez Garzón**
 
 ## 🎓 Programa Académico
 Ingeniería Mecatrónica
